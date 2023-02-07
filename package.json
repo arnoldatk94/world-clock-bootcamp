@@ -1,7 +1,7 @@
 {
   "name": "world-clock-bootcamp",
   "version": "0.1.0",
-  "homepage": "https://arnoldatk94.github.io/world-clock-bootcamp2",
+  "homepage": "https://arnoldatk94.github.io/world-clock-bootcamp",
   "private": true,
   "dependencies": {
     "react": "^18.1.0",
